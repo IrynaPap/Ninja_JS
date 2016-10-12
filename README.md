@@ -1,2 +1,2 @@
 # Ninja_JS
-Ninja_JS corses
+Ninja_JS courses
